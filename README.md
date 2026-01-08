@@ -60,7 +60,7 @@
 ---
 ### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,csharp,dotnet" />
 </p>
 
 ### 🌐 Web Development
@@ -70,7 +70,7 @@
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
 </p>
 
 ### ☁️ Cloud & APIs
@@ -82,7 +82,7 @@
 
 ### 🧑‍🎨 Design Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,blender,gimp" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,blender,gimp,ps" />
 </p>
 
 ### ⚙️ Version Control & Tools
@@ -94,7 +94,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
 </p>
-
 
 
 ---
